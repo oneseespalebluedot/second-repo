@@ -1,0 +1,12 @@
+okay guys here im trying to remember how to use vim, okay
+I remember what I do. 
+Press I to insert text
+Press ESC to go to commands 
+H J K L to move within a text
+0 to go to the beggining of the line
+$ to go to the end of the line
+Okay, so another commands are
+:w to save (write a file)
+:wq to save and quit 
+:q to quit
+:q! to quit without any savings 
